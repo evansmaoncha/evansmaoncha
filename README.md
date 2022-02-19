@@ -7,6 +7,7 @@
 -     3. Hostspot Management System - Mikrotik Integrated
 -     4. MPESA integration
 -     5. Bulk SMS integration(Africastalking and UjumbeSMS)
+-     6. ERP System
 - 📫 Reach me via evansmaoncha@gmail.com
 
 <!---
